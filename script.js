@@ -16,3 +16,8 @@ document.addEventListener('mousemove', (e) => {
     circle.style.transform = `translate(${moveX * - 0.26}px, ${moveY * -0.26}px)`
     insideCircle.style.transform = `translate(${moveX * -0.27}px, ${moveY * -0.27}px)`;
 });
+
+// // TextDecoderStreamtest
+// TextDecoderStream
+// TextDecoderStream
+// TextDecoderStreamtest
